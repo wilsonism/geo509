@@ -1,2 +1,7 @@
-# geo509
-GEO509
+# Geography 509: <br>Community Mapshop
+
+University of Kentucky
+<br>[Matthew W. Wilson](https://wilsonism.github.io/)
+
+[Syllabus]
+
