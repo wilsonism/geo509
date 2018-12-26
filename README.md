@@ -3,5 +3,5 @@
 University of Kentucky
 <br>[Matthew W. Wilson](https://wilsonism.github.io/)
 
-[Syllabus]
+[Syllabus](syllabus.md)
 
