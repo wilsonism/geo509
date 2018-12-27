@@ -143,7 +143,7 @@ If you have a documented disability that requires academic accommodations, pleas
 
 | Week | Tuesday  | Thursday |
 | :------- | :--------:        | :--------:        |
-| 1:<br>Jan. 10 | - - - | Studio introduction<br>Site introduction<br>Tech demonstration sign-up |
+| 1:<br>Jan. 10 | - - - | Studio introduction<br>Site introduction<br>[Tech demonstration sign-up](https://docs.google.com/document/d/1ZYK13nSIJf4HZfPlZhc4AOxNt7jTJuqR8IkyuRVe-G8/edit?usp=sharing) |
 | 2:<br>Jan. 15, <br>Jan. 17 | Introduce site analysis<br>Mapwalk in NE Lexington | Work on site analysis |
 | 3:<br>Jan. 22, <br>Jan. 24 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis |
 | 4:<br>Jan. 29, <br>Jan. 31 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
