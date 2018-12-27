@@ -44,11 +44,11 @@ Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-
 
 ### Site analysis.
 
-To jump-start the studio, students will complete an initial site analysis of the study area using GIS, to include primary and secondary spatial data. Analysis should highlight and prioritize more formal lines of inquiry that will be pursued throughout the semester, with an identification of potential community partners that should be engaged during the studio. Students are encouraged to use QGIS and/or ArcGIS.
+To jump-start the studio, students will complete an initial site analysis of the study area using GIS, to include primary and secondary spatial data. Analysis should highlight and prioritize more formal lines of inquiry that will be pursued throughout the semester, with an identification of potential community partners that could be engaged during the studio. Students are encouraged to use QGIS and/or ArcGIS.
 
 ### Technology demonstration.
 
-During the first few weeks of the semester, student pairs will sign-up for, prepare, and lead a technology demonstration during, or immediately following, the completion of their site analyses. In preparation, students will review the assigned technology and prepare a 10-minute overview and demonstration during studio. A typed, one page (single-spaced) review should answer the following questions (1 per student pair): (1) What are the specific system requirements for this technology? (2) What are the specific capacities and capabilities of this technology? (3) What is the brief history of this technology’s development and use? Students should print this review and bring it to studio on the day of the scheduled demonstration.
+During the first few weeks of the semester, student pairs will sign-up for, prepare, and lead a technology demonstration during, or immediately following, the completion of their site analyses. In preparation, students will review the assigned technology and prepare a 10-minute overview and demonstration during studio. A typed, one page (single-spaced) review should answer the following questions (1 per student pair): (1) What are the specific system requirements for this technology? (2) What are the specific capabilities of this technology? (3) What is the brief history of this technology’s development and use? Students should print this review and bring it to studio on the day of the scheduled demonstration.
 
 ### Midterm review.
 
@@ -141,35 +141,51 @@ If you have a documented disability that requires academic accommodations, pleas
 
 *Subject to change.*
 
-| Week     | Tuesday  | Thursday  |
+| Week | Tuesday  | Thursday |
 | :------- | :--------:        | :--------:        |
 | 1:<br>Jan. 10 | - - - | Studio introduction<br>Site introduction<br>Tech demonstration sign-up |
-| 2:<br>Aug. 28, <br>Aug. 30 | 1. Lab introduction<br>2. M1 introduction | 1. the aesthetics of cartography<br>2. overview of thematic mapping and data types <br>3. *Activity:* Collaborative mapping <br><br>*L2* |
-| 3:<br>Sept. 4, <br>Sept. 6 | MONDAY discussion sections <br>will not meet due to Labor Day.<br><br>**Complete M1**<br>Due end of Friday | Read Harley 1987.<br><br>1. mapping the everyday<br>2. critical mapping practices <br>3. *Activity:* Map as biography <br><br>*L3* |
-| 4:<br>Sept. 11, <br>Sept. 13 | **Complete M2**<br>Due end of Friday | 1. the relationship between cartography and GIS<br>2. map audience and format<br>3. Viewing the map and map experiences<br>4. *Activity:* Art Museum (on your own) <br><br>*L4* |
-| 5:<br>Sept. 18, <br>Sept. 20 | **Complete M3**<br>Due end of Friday | 1. acquiring data and transforming data<br>2. mapmaking tools<br>3. mashups and spatial media<br>4. *Activity:* US Census Data <br><br>*L5* |
-| 6:<br>Sept. 25, <br>Sept. 27 | M4 introduction | 1. the neutrality of maps<br>2. map projection and design <br><br>*L6* |
-| 7:<br>Oct. 2, <br>Oct. 4 | Work on M4 | 1. generalization, classification, and symbolization<br>2. the selective interests of the map(maker)<br>3. *Activity:* Truthiness in mapmaking <br><br>*L7* |
-| 8:<br>Oct. 9, <br>Oct. 11 | **M4 Due**<br>end of Friday | 1. the geoweb<br>2. *Activity:* Mapping careers <br><br>*L8* |
-| 9:<br>Oct. 16, <br>Oct. 18 | Final Project Preparations | Tuesday: Review Weeks 1-8 <br><br>Thursday: <br>**EXAM 1** |
-| 10:<br>Oct. 23, <br>Oct. 25 | *Activity:* Map Collection | 1. after critical GIS and cartography<br>2. new mapping industries<br>3. discuss final project proposal<br>4. *Activity:* Mapping crowds <br><br>*L9* |
-| 11:<br>Oct. 30, <br>Nov. 1 | **FP Proposal Due**<br>end of Friday | 1. mapping as art and creative force<br>2. non-representational mapping<br>3. maps as objects of consumption<br>4. *Activity:* Psychogeographic maps <br><br>*L10* |
-| 12:<br>Nov. 6, <br>Nov. 8 | Collect Data for Final Project | LECTURE WILL NOT MEET: **VOTE** |
-| 13:<br>Nov. 13, <br>Nov. 15 | Work on Final Project | 1. participatory mapping<br>2. VGI and neogeo<br>3. qualitative GIS <br><br>*L11* |
-| 14:<br>Nov. 20, <br>Nov. 22 | Final Project Review | Tuesday: Final Project Review <br><br>Thursday: THANKSGIVING BREAK |
-| 15:<br>Nov. 27, <br>Nov. 29 | **FP Report DUE**<br>end of Friday | Tuesday: <br>1. web programming and scripting for maps<br>2. *Activity:* Hello World <br><br>*L12* <br><br>Thursday: LECTURE WILL NOT MEET: Reading Period |
-| 16:<br>Dec. 4, <br>Dec. 6 | **FP Presentations DUE**<br>end of Friday | Tuesday: LECTURE WILL NOT MEET: Reading Period <br><br>Thursday: Review Weeks 10-15 |
+| 2:<br>Jan. 15, <br>Jan. 17 | Introduce site analysis<br>Mapwalk in NE Lexington | Work on site analysis |
+| 3:<br>Jan. 22, <br>Jan. 24 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis |
+| 4:<br>Jan. 29, <br>Jan. 31 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
+| 5:<br>Feb. 5, <br>Feb. 7 | Tech demonstrations<br>Studio + Desk Critiques | Tech demonstrations<br>Studio + Desk Critiques |
+| 6:<br>Feb. 12, <br>Feb. 14 | Guest lecture on NE Lexington<br>Studio + Desk Critiques | Studio + Desk Critiques |
+| 7:<br>Feb. 19, <br>Feb. 21 | Studio + Desk Critiques | Studio + Desk Critiques |
+| 8:<br>Feb. 26, <br>Feb. 28 | Studio + Desk Critiques | Preparation for Midterm Review |
+| 9:<br>Mar. 5, <br>Mar. 7 | Studio + Desk Critiques | **Midterm Review** |
+| 10:<br>Mar. 10-16 | Spring Recess | Spring Recess |
+| 11:<br>Mar. 19, <br>Mar. 21 | Studio + Desk Critiques | Studio + Desk Critiques |
+| 12:<br>Mar. 26, <br>Mar. 28 | Studio + Desk Critiques | Preparation for Final Review |
+| 13:<br>Apr. 2, <br>Apr. 4 | Studio | Studio |
+| 14:<br>Apr. 9, <br>Apr. 11 | Studio + Desk Critiques | **Final Review** |
+| 15:<br>Apr. 16, <br>Apr. 18 | Studio + Desk Critiques | Preparation for Final Report |
+| 16:<br>Apr. 23, <br>Apr. 25 | Studio + Desk Critiques | Studio + Desk Critiques |
 
-**Exam 2: Tuesday, December 11th, 10:30am on Canvas**
+**Final Report Due: Thursday, May 2nd, 3:30pm on Canvas**
 
 ## IX. Resource References
 
 Bertin, Jacques. 1983. *Semiology of Graphics: Diagrams, Networks, Maps* (WJ Berg, Trans.). Madison, WI: The University of Wisconsin Press, Ltd.
 
+Bunge, William. 1971. *Fitzgerald: geography of a revolution.* Cambridge, Mass.: Schenkman Pub. Co.
+
+Chrisman, Nicholas R. 1999. What does ‘GIS’ mean? *Transactions in GIS* 3 (2):175-186.
+
+Crampton, Jeremy W. 1995. The Ethics of GIS. *Cartography and Geographic Information Systems* 22 (1):84-89.
+
+Elwood, Sarah A., and Matthew W. Wilson. 2017. Critical GIS pedagogies beyond ‘Week 10: Ethics’. *International Journal of Geographical Information Science* 31 (10):2098-2116.
+
 Imhof, Eduard. 2007. *Cartographic relief presentation.* ESRI, Inc.
+
+Knigge, LaDona, and Meghan Cope. 2006. Grounded visualization: integrating the analysis of qualitative and quantitative data through grounded theory and visualization. *Environment and Planning A* 38:2021-2037.
 
 Krygier, John, and Denis Wood. 2016. *Making maps: a visual guide to map design for GIS.* 3rd ed. New York: Guilford Press.
 
 Robinson, Arthur Howard. 1952. *The look of maps: an examination of cartographic design.* University of Wisconsin Press.
 
+Schein, Richard H. 2012. Urban Form and Racial Order. *Urban Geography* 33 (7):942-960.
+
 Tufte, Edward R. 2001. *The Visual Display of Quantitative Information.* Graphics Press, 2nd edition.
+
+Wilson, Matthew W. 2015. Paying attention, digital media, and community-based critical GIS. *cultural geographies* doi: 10.1177/1474474014539249.
+
+Wood, Denis. 2010. *Everything Sings: Maps for a Narrative Atlas*. Los Angeles: Siglio.
