@@ -141,9 +141,9 @@ If you have a documented disability that requires academic accommodations, pleas
 
 *Subject to change.*
 
-| Week     | Discussion Sections                             | Lectures      |
-| :------- | :----:                                          | :-----        |
-| 1:<br>Aug. 23 | **Discussion Sections <br>Will Not Meet This Week** | Tuesday: First class meeting is Thursday. <br><br>Thursday: <br>1. introduction to course problematic<br>2. maps and mappings<br> 3. overview of M1-M4 <br><br>*L1* |
+| Week     | Tuesday  | Thursday  |
+| :------- | :--------:        | :--------:        |
+| 1:<br>Jan. 10 | - - - | Studio introduction<br>Site introduction<br>Tech demonstration sign-up |
 | 2:<br>Aug. 28, <br>Aug. 30 | 1. Lab introduction<br>2. M1 introduction | 1. the aesthetics of cartography<br>2. overview of thematic mapping and data types <br>3. *Activity:* Collaborative mapping <br><br>*L2* |
 | 3:<br>Sept. 4, <br>Sept. 6 | MONDAY discussion sections <br>will not meet due to Labor Day.<br><br>**Complete M1**<br>Due end of Friday | Read Harley 1987.<br><br>1. mapping the everyday<br>2. critical mapping practices <br>3. *Activity:* Map as biography <br><br>*L3* |
 | 4:<br>Sept. 11, <br>Sept. 13 | **Complete M2**<br>Due end of Friday | 1. the relationship between cartography and GIS<br>2. map audience and format<br>3. Viewing the map and map experiences<br>4. *Activity:* Art Museum (on your own) <br><br>*L4* |
