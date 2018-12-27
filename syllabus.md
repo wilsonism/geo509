@@ -1,4 +1,4 @@
-# Geography 509:<br>Community Mapping<br>Spring 2019<br>*[@ukmapshop](https://twitter.com/ukmapshop)*
+# Geography 509:<br>Community Mapping<br>Spring 2019<br>*[@ukmapshop](https://instagram.com/ukmapshop)*
 Lectures: TTH 3:30-4:45, Classroom Building 313
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
