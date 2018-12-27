@@ -66,7 +66,7 @@ A final report (no more than two-pages, single-spaced, with illustrations includ
 
 While attendance will not be taken, students are expected to attend all scheduled studio sessions. Throughout the semester, desk critiques will be conducted by the instructor and peer students and these ‘desk crits’ will contribute to a final evaluation of class participation.
 
-## VII. Important Notices
+## VI. Important Notices
 
 ### Prepare for this course.
 
@@ -137,7 +137,7 @@ Students should at all times be respectful of fellow students, the professor or 
 
 If you have a documented disability that requires academic accommodations, please see me as soon as possible during scheduled office hours. In order to receive accommodations in this course, you must provide me with a Letter of Accommodation from the Disability Resource Center (725 Rose Street, Suite 407 Multidisciplinary Science Building, 8AM to 4:30PM, 859-257-2754, email address: jkarnes@email.uky.edu) for coordination of campus disability services available to students with disabilities.
 
-## VIII. Schedule
+## VII. Schedule
 
 *Subject to change.*
 
@@ -162,7 +162,7 @@ If you have a documented disability that requires academic accommodations, pleas
 
 **Final Report Due: Thursday, May 2nd, 3:30pm on Canvas**
 
-## IX. Resource References
+## VIII. Resource References
 
 Bertin, Jacques. 1983. *Semiology of Graphics: Diagrams, Networks, Maps* (WJ Berg, Trans.). Madison, WI: The University of Wisconsin Press, Ltd.
 
