@@ -1,21 +1,18 @@
-# Geography 109: <br>Digital Mapping
+# Geography 509: <br>Community Mapshop
 
 University of Kentucky
 <br>Matthew W. Wilson
 
-## Mapping 4: Introduction to QGIS
+## Site Analysis
 
-![QGIS](Part_3/images/Image15_1.jpeg "QGIS")
+![Northeast Lexington](images/NELEX.png "NELEX")
 
-In this fourth mapping assignment, you will explore a workflow that many professional cartographers and GIScientists utilize. This is a rehearsal for the final project. You will use the following technologies and data sources:
+In this assignment, students will complete an initial site analysis of the study area using GIS, to include primary and secondary spatial data. Analysis should highlight and prioritize more formal lines of inquiry that will be pursued throughout the semester, with an identification of potential community partners that could be engaged during the studio.
 
-  * [QGIS](https://en.wikipedia.org/wiki/QGIS)
-  * [US Census Bureau](https://census.gov/)
-  * [American FactFinder](https://factfinder.census.gov/)
+For those who have not used QGIS or FactFinder are encouraged to complete a [practice lab](https://wilsonism.github.io/geo109/mapping-4/) to become more familiar with this technology and the use of census data.
 
-Follow the instructions below: 
+To complete the site analysis, you are to:
 
-  1. [Install QGIS](Install_QGIS/M4_Install_QGIS.md)
-  2. [Import Spatial Data](Part_1/M4_Part_1.md)
-  3. [Download and Clean Census Data](Part_2/M4_Part_2.md)
-  4. [Visualize Spatial Data](Part_3/M4_Part_3.md)
+  1. Use the [Lexington Open Data Portal](https://data.lexingtonky.gov/group) to download shapefiles for your basemap of Lexington (including revised census tract and block geometries for [2010](https://data.lexingtonky.gov/group/miscellaneous) and [2000](https://data.lexingtonky.gov/group/historical?page=2)). 
+  2. Use [FactFinder](http://factfinder.census.gov) to download census tabular data for Lexington based on a theme of interest (housing, employment, income, race and ethnicity, transportation, veteran status, etc.). You may want to explore census data first using [Social Explorer](https://www.socialexplorer.com/). You may want to learn more about using Social Explorer, [here](https://wilsonism.github.io/geo109/mapping-3/mapping-3-instructions.html).
+  3. 
