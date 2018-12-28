@@ -7,7 +7,7 @@ University of Kentucky
 
 ![Northeast Lexington](images/NELEX.png "NELEX")
 
-In this assignment, you will complete an initial site analysis of the study area using GIS, to include primary and secondary spatial data. Analysis should highlight and prioritize more formal lines of inquiry that will be pursued throughout the semester, with an identification of potential community partners that could be engaged during the studio.
+In this assignment, you will complete an initial site analysis of the study area using GIS, to include primary and secondary spatial data. Feel free to partner with other members of the class. Each student must submit their own site analysis.
 
 For those who have not used QGIS or FactFinder are encouraged to complete a [practice lab](https://wilsonism.github.io/geo109/mapping-4/) to become more familiar with this technology and the use of census data.
 
@@ -24,4 +24,4 @@ You also need to explore some aspects of northeast Lexington using data from the
   3. Perform a table join to connect the tabular data with your census geometries.
   4. Create a few choropleth maps showing aspects of this data.
   
-To complete the site analysis, assemble your notes, photos, and maps into a single PDF describing some aspect of northeast Lexington. Upload this to Canvas for full credit.
+To complete the site analysis, assemble your notes, photos, and maps into a single PDF describing some aspect of northeast Lexington. Analysis should highlight and prioritize more formal lines of inquiry that may be pursued throughout the semester. You may want to identify potential community partners that could be engaged during the studio. Make note of any work completed with other class members. Upload the PDF to Canvas for full credit.
