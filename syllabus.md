@@ -33,7 +33,7 @@ While there are no required texts for this course, materials will be made availa
 ### Assessment overview.
 
 Students will be assessed in this course using a variety of methods. Attendance and participation in studio is fundamental to successful completion of the course. Assessment is distributed in the following ways, for a total of 350 points:
-* Site analysis (30 points)
+* [Site analysis](site-analysis/README.md) (30 points)
 * Technology demonstration (20 points)
 * Midterm review (100 points)
 * Final review (100 points)
@@ -144,7 +144,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | Week | Tuesday  | Thursday |
 | :------- | :--------:        | :--------:        |
 | 1:<br>Jan. 10 | - - - | Studio introduction<br>Site introduction<br>[Tech demonstration sign-up](https://docs.google.com/document/d/1ZYK13nSIJf4HZfPlZhc4AOxNt7jTJuqR8IkyuRVe-G8/edit?usp=sharing) |
-| 2:<br>Jan. 15, <br>Jan. 17 | Introduce site analysis<br>Mapwalk in NE Lexington | Work on site analysis |
+| 2:<br>Jan. 15, <br>Jan. 17 | [Introduce site analysis](site-analysis/README.md)<br>Mapwalk in NE Lexington | Work on site analysis |
 | 3:<br>Jan. 22, <br>Jan. 24 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis |
 | 4:<br>Jan. 29, <br>Jan. 31 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
 | 5:<br>Feb. 5, <br>Feb. 7 | Tech demonstrations<br>Studio + Desk Critiques | Tech demonstrations<br>Studio + Desk Critiques |
