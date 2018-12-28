@@ -7,7 +7,7 @@ University of Kentucky
 
 ![Northeast Lexington](images/NELEX.png "NELEX")
 
-In this assignment, students will complete an initial site analysis of the study area using GIS, to include primary and secondary spatial data. Analysis should highlight and prioritize more formal lines of inquiry that will be pursued throughout the semester, with an identification of potential community partners that could be engaged during the studio.
+In this assignment, you will complete an initial site analysis of the study area using GIS, to include primary and secondary spatial data. Analysis should highlight and prioritize more formal lines of inquiry that will be pursued throughout the semester, with an identification of potential community partners that could be engaged during the studio.
 
 For those who have not used QGIS or FactFinder are encouraged to complete a [practice lab](https://wilsonism.github.io/geo109/mapping-4/) to become more familiar with this technology and the use of census data.
 
