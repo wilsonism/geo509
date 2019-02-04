@@ -148,7 +148,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | 3:<br>Jan. 22, <br>Jan. 24 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis |
 | 4:<br>Jan. 29, <br>Jan. 31 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
 | 5:<br>Feb. 5, <br>Feb. 7 | Tech demonstrations<br>Studio + Desk Critiques | Tech demonstrations<br>Studio + Desk Critiques |
-| 6:<br>Feb. 12, <br>Feb. 14 | Guest lecture on NE Lexington<br>Studio + Desk Critiques | Studio + Desk Critiques |
+| 6:<br>Feb. 12, <br>Feb. 14 | Studio + Desk Critiques | Guest lecture on NE Lexington<br>Studio + Desk Critiques |
 | 7:<br>Feb. 19, <br>Feb. 21 | Studio + Desk Critiques | Studio + Desk Critiques |
 | 8:<br>Feb. 26, <br>Feb. 28 | Studio + Desk Critiques | Preparation for Midterm Review |
 | 9:<br>Mar. 5, <br>Mar. 7 | Studio + Desk Critiques | **Midterm Review** |
