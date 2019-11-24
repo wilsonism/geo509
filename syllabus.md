@@ -1,5 +1,5 @@
-# Geography 509:<br>Community Mapping<br>Spring 2019<br>*[@ukmapshop](https://instagram.com/ukmapshop)*
-Lectures: TTH 3:30-4:45, Classroom Building 313
+# Geography 509:<br>Community Mapping<br>Spring 2020<br>*[@ukmapshop](https://instagram.com/ukmapshop)*
+Lectures: TTH 2:00-3:15, Classroom Building 313
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -48,7 +48,7 @@ To jump-start the studio, students will complete an initial site analysis of the
 
 ### Technology demonstration.
 
-During the first few weeks of the semester, student pairs will sign-up for, prepare, and lead a technology demonstration during, or immediately following, the completion of their site analyses. In preparation, students will review the assigned technology and prepare a 10-minute overview and demonstration during studio. A typed, one page (single-spaced) review should answer the following questions (1 per student pair): (1) What are the specific system requirements for this technology? (2) What are the specific capabilities of this technology? (3) What is the brief history of this technology’s development and use? Students should print this review and bring it to studio on the day of the scheduled demonstration.
+During the first few weeks of the semester, each student will sign-up for, prepare, and perform a technology demonstration during, or immediately following, the completion of their site analyses. This demonstration will require that the student show the instructor an ability to download spatial data, perform a tabular join with Census data, and visualize this joined data using an appropriate symbology.
 
 ### Midterm review.
 
@@ -143,24 +143,24 @@ If you have a documented disability that requires academic accommodations, pleas
 
 | Week | Tuesday  | Thursday |
 | :------- | :--------:        | :--------:        |
-| 1:<br>Jan. 10 | - - - | Studio introduction<br>Site introduction<br>[Tech demonstration sign-up](https://docs.google.com/document/d/1ZYK13nSIJf4HZfPlZhc4AOxNt7jTJuqR8IkyuRVe-G8/edit?usp=sharing) |
-| 2:<br>Jan. 15, <br>Jan. 17 | [Introduce site analysis](site-analysis/README.md)<br>Mapwalk in NE Lexington | Work on site analysis |
-| 3:<br>Jan. 22, <br>Jan. 24 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis |
-| 4:<br>Jan. 29, <br>Jan. 31 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
-| 5:<br>Feb. 5, <br>Feb. 7 | Tech demonstrations<br>Studio + Desk Critiques | Tech demonstrations<br>Studio + Desk Critiques |
-| 6:<br>Feb. 12, <br>Feb. 14 | Studio + Desk Critiques | Guest lecture on NE Lexington<br>Studio + Desk Critiques |
-| 7:<br>Feb. 19, <br>Feb. 21 | Studio + Desk Critiques | Studio + Desk Critiques |
-| 8:<br>Feb. 26, <br>Feb. 28 | Studio + Desk Critiques | Preparation for Midterm Review |
-| 9:<br>Mar. 5, <br>Mar. 7 | Studio + Desk Critiques | **Midterm Review** |
-| 10:<br>Mar. 10-16 | Spring Recess | Spring Recess |
-| 11:<br>Mar. 19, <br>Mar. 21 | Studio + Desk Critiques | Studio + Desk Critiques |
-| 12:<br>Mar. 26, <br>Mar. 28 | Studio + Desk Critiques | Preparation for Final Review |
-| 13:<br>Apr. 2, <br>Apr. 4 | Studio | Studio |
-| 14:<br>Apr. 9, <br>Apr. 11 | Studio + Desk Critiques | **Final Review** |
-| 15:<br>Apr. 16, <br>Apr. 18 | Studio + Desk Critiques | Preparation for Final Report |
-| 16:<br>Apr. 23, <br>Apr. 25 | Studio + Desk Critiques | Studio + Desk Critiques |
+| 1:<br>Jan. 16 | - - - | Studio introduction<br>Site introduction<br>[Tech demonstration sign-up](https://docs.google.com/document/d/1ZYK13nSIJf4HZfPlZhc4AOxNt7jTJuqR8IkyuRVe-G8/edit?usp=sharing) |
+| 2:<br>Jan. 21, <br>Jan. 23 | [Introduce site analysis](site-analysis/README.md)<br>Mapwalk in NE Lexington | Work on site analysis |
+| 3:<br>Jan. 28, <br>Jan. 30 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis |
+| 4:<br>Feb. 4, <br>Feb. 6 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
+| 5:<br>Feb. 11, <br>Feb. 13 | Tech demonstrations<br>Studio + Desk Critiques | Tech demonstrations<br>Studio + Desk Critiques |
+| 6:<br>Feb. 18, <br>Feb. 20 | Studio + Desk Critiques | Guest lecture on NE Lexington<br>Studio + Desk Critiques |
+| 7:<br>Feb. 25, <br>Feb. 27 | Studio + Desk Critiques | Studio + Desk Critiques |
+| 8:<br>Mar. 3, <br>Mar. 5 | Studio + Desk Critiques | Preparation for Midterm Review |
+| 9:<br>Mar. 10, <br>Mar. 12 | Studio + Desk Critiques | **Midterm Review** |
+| 10:<br>Mar. 16-20 | Spring Recess | Spring Recess |
+| 11:<br>Mar. 24, <br>Mar. 26 | Studio + Desk Critiques | Studio + Desk Critiques |
+| 12:<br>Mar. 31, <br>Apr. 2 | Studio + Desk Critiques | Preparation for Final Review |
+| 13:<br>Apr. 7, <br>Apr. 9 | Studio | Studio |
+| 14:<br>Apr. 14, <br>Apr. 16 | Studio + Desk Critiques | **Final Review** |
+| 15:<br>Apr. 21, <br>Apr. 23 | Studio + Desk Critiques | Preparation for Final Report |
+| 16:<br>Apr. 28, <br>Apr. 30 | Studio + Desk Critiques | Studio + Desk Critiques |
 
-**Final Report Due: Thursday, May 2nd, 3:30pm on Canvas**
+**Final Report Due: Tuesday, May 5th, 1pm on Canvas**
 
 ## VIII. Resource References
 
