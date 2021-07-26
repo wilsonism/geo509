@@ -5,7 +5,7 @@ University of Kentucky
 
 ## Site Analysis Louisville
 
-![Northeast Lexington](NELEX.png "NELEX")
+![Preston Avenue Corridor](LOU-PRESTON.png "LOU-PRESTON")
 
 In this assignment, you will complete an initial site analysis of the study area using GIS, to include primary and secondary spatial data. Feel free to partner with other members of the class. Each student must submit their own site analysis.
 
