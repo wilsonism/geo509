@@ -1,5 +1,5 @@
-# Geography 509:<br>Community Mapping<br>Spring 2020<br>*[@ukmapshop](https://instagram.com/ukmapshop)*
-Lectures: TTH 2:00-3:15, Classroom Building 313
+# Geography 509:<br>Community Mapping<br>Fall 2021<br>*[@ukmapshop](https://instagram.com/ukmapshop)*
+Lectures: W 1:00-3:30, Classroom Building 313
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -93,9 +93,17 @@ You are responsible for checking your UKY email account; the class listserv is w
 
 Students are strongly encouraged to exchange contact information with classmates, in order to facilitate the objectives of this studio.
 
-### Ask before recording.
+### Get permission before recording.
 
-Video and audio recordings are not permitted during our class meetings unless the student has received prior permission from the instructors. If permission is granted, recording of other students is prohibited. Any distribution of recordings is also probhibited. Students with specific recording accommodations approved by the Disability Resource Center should present their official documentation to the instructor. All content for this course, including handouts, assignments, and lectures are the intellectual property of the instructors and cannot be reproduced, sold, or used for any purpose other than educational work in this class without prior permission from the instructor.
+Meetings of this course may be recorded. All video and audio recordings of lecturers and class meetings, provided by the instructors, are for educational use by students in this class only. They are available only through the Canvas shell for this course and are not to be copied, shared, or redistributed.
+
+The University of Kentucky Student Code of Conduct defines Invasion of Privacy as using electronic or other devices to make a photographic, audio, or video record of any person without their prior knowledge or consent when such a recording is likely to cause injury or distress. As addressed in the Student Code of Conduct, students are expected to follow appropriate university policies and maintain the security of linkblue accounts used to access recorded class materials. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments.
+
+If the instructor or a University of Kentucky office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. In anticipation of such cases, students may be asked to complete an “authorization of use” form by a faculty member.
+
+Video and audio recordings by students are not permitted during the class unless the student has received prior permission from the instructor. Any sharing, distribution, and or uploading of these recordings outside of the parameters of the class is prohibited. Students with specific recording accommodations approved by the Disability Resource Center should present their official documentation to the instructor.
+
+All content for this course, including handouts, assignments, and lectures are the intellectual property of the instructors and cannot be reproduced or sold without prior permission from the instructors. A student may use the material for reasonable educational and professional purposes extending beyond this class, such as studying for a comprehensive or qualifying examination in a degree program, preparing for a professional or certification examination, or to assist in fulfilling responsibilities at a job or internship.
 
 ### Get help.
 
@@ -141,26 +149,26 @@ If you have a documented disability that requires academic accommodations, pleas
 
 *Subject to change.*
 
-| Week | Tuesday  | Thursday |
-| :------- | :--------:        | :--------:        |
-| 1:<br>Jan. 16 | - - - | Studio introduction<br>Site introduction<br>[Tech demonstration sign-up](https://docs.google.com/document/d/1ZYK13nSIJf4HZfPlZhc4AOxNt7jTJuqR8IkyuRVe-G8/edit?usp=sharing) |
-| 2:<br>Jan. 21, <br>Jan. 23 | [Introduce site analysis](site-analysis/README.md)<br>Mapwalk in NE Lexington | Work on site analysis |
-| 3:<br>Jan. 28, <br>Jan. 30 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis |
-| 4:<br>Feb. 4, <br>Feb. 6 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
-| 5:<br>Feb. 11, <br>Feb. 13 | Tech demonstrations<br>Studio + Desk Critiques | Tech demonstrations<br>Studio + Desk Critiques |
-| 6:<br>Feb. 18, <br>Feb. 20 | Studio + Desk Critiques | Guest lecture on NE Lexington<br>Studio + Desk Critiques |
-| 7:<br>Feb. 25, <br>Feb. 27 | Studio + Desk Critiques | Studio + Desk Critiques |
-| 8:<br>Mar. 3, <br>Mar. 5 | Studio + Desk Critiques | Preparation for Midterm Review |
-| 9:<br>Mar. 10, <br>Mar. 12 | Studio + Desk Critiques | **Midterm Review** |
-| 10:<br>Mar. 16-20 | Spring Recess | Spring Recess |
-| 11:<br>Mar. 24, <br>Mar. 26 | Studio + Desk Critiques | Studio + Desk Critiques |
-| 12:<br>Mar. 31, <br>Apr. 2 | Studio + Desk Critiques | Preparation for Final Review |
-| 13:<br>Apr. 7, <br>Apr. 9 | Studio | Studio |
-| 14:<br>Apr. 14, <br>Apr. 16 | Studio + Desk Critiques | **Final Review** |
-| 15:<br>Apr. 21, <br>Apr. 23 | Studio + Desk Critiques | Preparation for Final Report |
-| 16:<br>Apr. 28, <br>Apr. 30 | Studio + Desk Critiques | Studio + Desk Critiques |
+| Week | Wednesday  |
+| :------- | :--------:        |
+| 1:<br>Aug. 25 | Studio introduction<br>Site introduction<br>Introduce [site analysis](site-analysis/README.md) |
+| 2:<br>Sep. 1 | Site visit to Louisville<br>**We will travel to Louisville from Lexington, 1-5pm** |
+| 3:<br>Sep. 8 | Tech demonstrations<br>Work on site analysis |
+| 4:<br>Sep. 15 | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
+| 5:<br>Sep. 22 | Tech demonstrations<br>Studio + Desk Critiques |
+| 6:<br>Sep. 29 | Studio + Desk Critiques |
+| 7:<br>Oct. 6 | Studio + Desk Critiques |
+| 8:<br>Oct. 13 | Preparation for Midterm Review |
+| 9:<br>Oct. 20 | **Midterm Review** |
+| 10:<br>Oct. 27 | Studio + Desk Critiques |
+| 11:<br>Nov. 3 | Studio + Desk Critiques |
+| 12:<br>Nov. 10 | Preparation for Final Review |
+| 13:<br>Nov. 17 | **Final Review** |
+| 14:<br>Nov. 24 | Thanksgiving Recess |
+| 15:<br>Dec. 1 | Studio + Desk Critiques |
+| 16:<br>Dec. 8 | Preparation for Final Report |
 
-**Final Report Due: Tuesday, May 5th, 1pm on Canvas**
+**Final Report Due: Wednesday, Dec 15th, 5pm on Canvas**
 
 ## VIII. Resource References
 
@@ -178,8 +186,6 @@ Imhof, Eduard. 2007. *Cartographic relief presentation.* ESRI, Inc.
 
 Knigge, LaDona, and Meghan Cope. 2006. Grounded visualization: integrating the analysis of qualitative and quantitative data through grounded theory and visualization. *Environment and Planning A* 38:2021-2037.
 
-Krygier, John, and Denis Wood. 2016. *Making maps: a visual guide to map design for GIS.* 3rd ed. New York: Guilford Press.
-
 Robinson, Arthur Howard. 1952. *The look of maps: an examination of cartographic design.* University of Wisconsin Press.
 
 Schein, Richard H. 2012. Urban Form and Racial Order. *Urban Geography* 33 (7):942-960.
@@ -187,5 +193,3 @@ Schein, Richard H. 2012. Urban Form and Racial Order. *Urban Geography* 33 (7):9
 Tufte, Edward R. 2001. *The Visual Display of Quantitative Information.* Graphics Press, 2nd edition.
 
 Wilson, Matthew W. 2015. Paying attention, digital media, and community-based critical GIS. *cultural geographies* doi: 10.1177/1474474014539249.
-
-Wood, Denis. 2010. *Everything Sings: Maps for a Narrative Atlas*. Los Angeles: Siglio.
