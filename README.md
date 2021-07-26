@@ -5,4 +5,4 @@ University of Kentucky
 
 [Syllabus](syllabus.md)
 
-[Site Analysis](site-analysis/README.md)
+[Site Analysis](site-analysis-LOU/README.md)
