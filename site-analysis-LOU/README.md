@@ -7,6 +7,8 @@ University of Kentucky
 
 ![Preston Avenue Corridor](LOU-PRESTON.png "LOU-PRESTON")
 
+(last update: 26 July 2021)
+
 In this assignment, you will complete an initial site analysis of the study area using GIS, to include primary and secondary spatial data. Feel free to partner with other members of the class. Each student must submit their own site analysis.
 
 For those who have not used QGIS or data from the US Census, you are encouraged to complete a [practice lab](https://wilsonism.github.io/geo109/mapping-4/) to become more familiar with this technology and the use of census data.
