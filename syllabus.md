@@ -152,7 +152,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | Week | Wednesday  |
 | :------- | :--------:        |
 | 1:<br>Aug. 25 | Studio introduction<br>Site introduction<br>Introduce [site analysis](site-analysis-LOU/README.md) |
-| 2:<br>Sep. 1 | Site visit to Louisville<br>**We will travel to Louisville from Lexington, 1-5pm** |
+| 2:<br>Sep. 1 | Work on site analysis |
 | 3:<br>Sep. 8 | Tech demonstrations<br>Work on site analysis |
 | 4:<br>Sep. 15 | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
 | 5:<br>Sep. 22 | Tech demonstrations<br>Studio + Desk Critiques |
@@ -163,9 +163,9 @@ If you have a documented disability that requires academic accommodations, pleas
 | 10:<br>Oct. 27 | Studio + Desk Critiques |
 | 11:<br>Nov. 3 | Studio + Desk Critiques |
 | 12:<br>Nov. 10 | Preparation for Final Review |
-| 13:<br>Nov. 17 | **Final Review** |
+| 13:<br>Nov. 17 | Pin-up with Architecture, Interiors, and LA |
 | 14:<br>Nov. 24 | Thanksgiving Recess |
-| 15:<br>Dec. 1 | Studio + Desk Critiques |
+| 15:<br>Dec. 1 | **Final Review** |
 | 16:<br>Dec. 8 | Preparation for Final Report |
 
 **Final Report Due: Wednesday, Dec 15th, 5pm on Canvas**
