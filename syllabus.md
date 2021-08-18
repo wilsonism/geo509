@@ -5,7 +5,7 @@ Lectures: W 1:00-3:30, Classroom Building 313
 *Email:* matthew.w.wilson@uky.edu<br>
 *Twitter:* [@wilsonism](https://twitter.com/wilsonism)<br>
 *Office:* Patterson Office Tower (POT) 861<br>
-*Office Hours:* by appointment<br>
+*Office Hours:* email for an appointment<br>
 
 ## I. Course Description
 
