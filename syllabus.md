@@ -32,7 +32,7 @@ While there are no required texts for this course, materials will be made availa
 ### Assessment overview.
 
 Students will be assessed in this course using a variety of methods. Attendance and participation in studio is fundamental to successful completion of the course. Assessment is distributed in the following ways, for a total of 350 points:
-* [Site analysis](site-analysis-LOU/README.md) (30 points)
+* [Site analysis](site-analysis/README.md) (30 points)
 * Technology demonstration (20 points)
 * Midterm review (100 points)
 * Final review (100 points)
@@ -171,7 +171,7 @@ UK Police will communicate additional information through the UK Alert system du
 
 | Week | Tuesday and Thursday |
 | :------- | :--------:        |
-| 1:<br>Aug 26 and 28 | Studio introduction<br>Site introduction<br>Introduce [site analysis](site-analysis-LOU/README.md) |
+| 1:<br>Aug 26 and 28 | Studio introduction<br>Site introduction<br>Introduce [site analysis](site-analysis/README.md) |
 | 2:<br>Sep 2 and 4 | Work on site analysis |
 | 3:<br>Sep 9 and 11 | Tech demonstrations<br>Work on site analysis |
 | 4:<br>Sep 16 and 18 | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
