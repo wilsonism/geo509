@@ -1,10 +1,10 @@
-# Geography 509:<br>Community Mapping<br>Fall 2021<br>*[@ukmapshop](https://instagram.com/ukmapshop)*
-Lectures: W 1:00-3:30, Classroom Building 313
+# Geography 509:<br>Workshop in Geospatial Technologies<br>Fall 2025<br>*[@ukmapshop](https://instagram.com/ukmapshop)*
+Lectures: TR 3:30-4:45, Young Library B-28B
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
 *Twitter:* [@wilsonism](https://twitter.com/wilsonism)<br>
-*Office:* Patterson Office Tower (POT) 861<br>
+*Office:* Patterson Office Tower (POT) 815<br>
 *Office Hours:* email for an appointment<br>
 
 ## I. Course Description
@@ -79,13 +79,9 @@ Attendance is not taken nor required, however, note that:
 2. your success in pushing your technical knowledge of emerging representational technologies largely depends on the effort you apply in studio;
 3. in the event of an absence, you should consult the syllabus and your peers regarding what material you have missed.
 
-### Wear a mask.
-
-In accordance with University guidelines, students must wear UK-approved face coverings in the classroom and academic buildings (e.g., faculty offices, laboratories, libraries, performance/design studios, and common study areas where students might congregate). If UK-approved face coverings are not worn over the nose and mouth, students will be asked to leave the classroom.
-
 ### Be in contact.
 
-You are responsible for checking your UKY email account; Canvas is what will be used to send communications outside class. Email is the best way to contact the instructor. Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
+Students are responsible for checking their UKY email account; Canvas is what will be used to send communications outside class. Email is the best way to contact the instructor. Students should allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
 
 ### Be a resource for others.
 
@@ -105,7 +101,7 @@ All content for this course, including handouts, assignments, and lectures are t
 
 ### Get help.
 
-If you are having difficulty with any course material, please contact the instructor. There are also other resources which you might find useful:
+If students are having difficulty with any course material, please contact the instructor. There are also other resources which students might find useful:
 * Pauer Center for Cartography & GIS in Miller Hall 5, https://geography.as.uky.edu/cartlab
 * The University Writing Center, https://uky.mywconline.com
 * Map Collections, Science Library in King Library 410C, http://libguides.uky.edu/maps
@@ -113,11 +109,11 @@ If you are having difficulty with any course material, please contact the instru
 
 ### Meet deadlines.
 
-Meeting deadlines is an important professional practice. Consult the course schedule, below, for the due dates of the course assignments. A 10-percent deduction will be applied to the final score of your assignment for submissions after the deadline on the same calendar day, with an additional 10-percent deduction for each additional calendar day the assignment is late. If the assignment is not delivered by the next class meeting, the assignment will not be accepted.
+Meeting deadlines is an important professional practice. Students should consult the course schedule, below, for the due dates of the course assignments. A 10-percent deduction will be applied to the final score of an assignment for submissions after the deadline on the same calendar day, with an additional 10-percent deduction for each additional calendar day the assignment is late. If the assignment is not delivered by the next class meeting, the assignment will not be accepted.
 
 ### Be honest.
 
-This course, if successful, will expose you to a variety of concepts and techniques. You are expected to draw upon these various ideas, but you must be transparent and honest about your use of these ideas. Please get help if you are uncertain about this expectation! Per university policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students should familiarize themselves with policies regarding Academic Offenses (available at https://www.uky.edu/universitysenate/ao). **Please note:** Any assignment you turn in may be submitted to an electronic database to check for plagiarism.
+This course, if successful, will expose students to a variety of concepts and techniques. Students are expected to draw upon these various ideas, but they must be transparent and honest about their use of these ideas. Students should get help if they are uncertain about this expectation. Per university policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students should familiarize themselves with definitions regarding plagiarism (available at [https://ombud.uky.edu/students/what-plagiarism](https://ombud.uky.edu/students/what-plagiarism)) and cheating (available at [https://ombud.uky.edu/students/what-cheating](https://ombud.uky.edu/students/what-cheating). Please note: Any assignment students turn in may be submitted to an electronic database to check for plagiarism.
 
 ### Be respectful.
 
@@ -136,32 +132,64 @@ We strive to rectify and change behavior that is inconsistent with our principle
 
 ### Familiarize yourself with campus-wide policies.
 
-To learn more about campus-wide policies on Excused Absences and Acceptable Excuses, Religious Observances, Verification of Absences, Make-Up Work, Excused Absences for Military Duties, Unexcused Absences, Prep Week and Reading Days, Accommodation Due to Disability, Non-Discrimination Statement and Title IX Information, please refer to Academic Policy Statements (available at [https://www.uky.edu/universitysenate/acadpolicy](https://www.uky.edu/universitysenate/acadpolicy)). Please contact the instructor with any questions regarding these policies.
+To learn more about campus-wide policies on Excused Absences and Acceptable Excuses, Religious Observances, Verification of Absences, Make-Up Work, Excused Absences for Military Duties, Unexcused Absences, Prep Week and Reading Days, Accommodation Due to Disability, Non-Discrimination Statement and Title IX Information, students should refer to Academic Policy Statements (available at [https://provost.uky.edu/proposals/guidance-course-proposals/standard-academic-policy-statements](https://provost.uky.edu/proposals/guidance-course-proposals/standard-academic-policy-statements)). Students should contact the instructor with any questions regarding these policies.
+
+### Review information regarding classroom emergency preparedness and response
+
+Nothing is more important than the safety and well-being of our campus community. While the University of Kentucky Police Department continues to enhance campus safety measures, it’s important to remember that everyone has a responsibility in keeping our community safe. To find more information visit [https://police.uky.edu/emergency-response-guide](Emergency Response Guide) created by the University of Kentucky Police Department.
+
+**Emergency Reporting & Action**
+*Reporting*: If there is an emergency, DIAL 911. To report suspicious activity or non-emergency situations, call the UK Police Department at 859-257-8573 or #UKPD from any mobile phone. If an emergency occurs in a classroom or residence hall with a red emergency button, press to quickly notify UKPD. Emergency responders will immediately be dispatched to your location.
+*Action*: During an emergency, you are responsible for your own safety. If an emergency occurs during class, your instructor will provide further direction based on university and department emergency plans.
+
+**Warning Systems**
+*UK Alert*: The university provides emergency notifications through UK Alert, which sends messages via email, text message, phone calls, building alarm systems, digital signage, social media and outdoor sirens. If you receive a UK Alert message during class, notify your instructor and classmates immediately. For more information, visit [https://police.uky.edu/get-notified/uk-alert](https://police.uky.edu/get-notified/uk-alert).
+*LiveSafe*: The university provides additional emergency preparedness information and safety tools through LiveSafe, a free mobile app for iOS and Android. You can report suspicious activity, message with UK Police and virtually escort your friends through the SafeWalk tool. For more information, visit [https://police.uky.edu/safety/livesafe](https://police.uky.edu/safety/livesafe).
+*Blue Emergency Towers*: Blue Emergency Notification Towers are strategically placed at over 50 locations across campus to provide outdoor alert tones and broadcast emergency messages with loud speakers. Each tower also features an emergency push button speaker phone that reaches UKPD and a camera mounted above the tower.
+For more information, visit [https://police.uky.edu/safety/blue-emergency-towers](https://police.uky.edu/safety/blue-emergency-towers).
+
+**Medical Emergency**
+If there is a medical emergency, dial 911 and do not act outside the scope of your medical training. After dialing 911, inform your instructor of the situation.
+
+**Evacuation**
+It is required to evacuate for a fire alarm or when university officials order us to do so. Evacuation routes are marked with illuminated exit signs throughout the building. Avoid using elevators during any evacuation.
+
+**Emergency Sheltering**
+*Storm Sheltering*: Report to the recommended shelter locations. Recommended shelter locations are marked throughout the building. If shelter locations are unavailable, protect yourself from lightning and flying debris by moving to an interior room or hallway on the building's lowest level. Avoid outside doors and windows and get under a sturdy table and use your arms to protect your head and neck.
+*Shelter-in-Place*: If a shelter-in-place order is issued, you will learn about this through UK Alert, the university’s emergency notification system. If you are inside, stay where you are unless the building you are in is affected. If the building is affected, and the fire alarm has been activated or directed by law enforcement, you should evacuate. If you are outdoors, proceed into the closest UK building or follow instructions from emergency personnel or alerts. It is ideal to shelter-in-place in an interior room with the fewest or no windows and no doors to the outside if
+possible. Shut all windows and close exterior doors. If a hazardous chemical release occurs outside the building, follow these same procedures.
+
+**Active Aggressor**
+In a situation where an aggressor is trying to attack you or others, follow three steps:
+1. Run: Attempt to get away from the attacker.
+2. Hide: If you cannot run, barricade yourself in a safe place. Turn your phone to silent and dim your brightness. If possible, use the LiveSafe App to message UK Police and alert them to your location. If you don’t have the app, dial 911. If you cannot speak, leave the line open and allow the dispatcher to listen.
+3. Fight: If you cannot run or hide, do whatever you need to do to stop the attacker.
+UK Police will communicate additional information through the UK Alert system during an active aggressor situation. Every UKY email automatically receives UK Alerts. You can also sign up in myUK to receive alerts via text and phone call.
 
 ## VII. Schedule
 
 *Subject to change.*
 
-| Week | Wednesday  |
+| Week | Tuesday and Thursday |
 | :------- | :--------:        |
-| 1:<br>Aug. 25 | Studio introduction<br>Site introduction<br>Introduce [site analysis](site-analysis-LOU/README.md) |
-| 2:<br>Sep. 1 | Work on site analysis |
-| 3:<br>Sep. 8 | Tech demonstrations<br>Work on site analysis |
-| 4:<br>Sep. 15 | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
-| 5:<br>Sep. 22 | Tech demonstrations<br>Studio + Desk Critiques |
-| 6:<br>Sep. 29 | Studio + Desk Critiques |
-| 7:<br>Oct. 6 | Studio + Desk Critiques |
-| 8:<br>Oct. 13 | Preparation for Midterm Review |
-| 9:<br>Oct. 20 | **Midterm Review** |
-| 10:<br>Oct. 27 | Studio + Desk Critiques |
-| 11:<br>Nov. 3 | Studio + Desk Critiques |
-| 12:<br>Nov. 10 | Preparation for Final Review |
-| 13:<br>Nov. 17 | Pin-up with Architecture, Interiors, and LA |
-| 14:<br>Nov. 24 | Thanksgiving Recess |
-| 15:<br>Dec. 1 | **Final Review** |
-| 16:<br>Dec. 8 | Preparation for Final Report |
+| 1:<br>Aug 26 and 28 | Studio introduction<br>Site introduction<br>Introduce [site analysis](site-analysis-LOU/README.md) |
+| 2:<br>Sep 2 and 4 | Work on site analysis |
+| 3:<br>Sep 9 and 11 | Tech demonstrations<br>Work on site analysis |
+| 4:<br>Sep 16 and 18 | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
+| 5:<br>Sep 23 and 25 | Tech demonstrations<br>Studio + Desk Critiques |
+| 6:<br>Sep 30 and Oct 2 | Studio + Desk Critiques |
+| 7:<br>Oct 7 and 9 | Studio + Desk Critiques |
+| 8:<br>Oct 14 and 16 | NACIS in Louisville<br>Preparation for Midterm Review |
+| 9:<br>Oct 21 and 23 | **Midterm Reviews** |
+| 10:<br>Oct 28 and 30 | Tuesday: No Studio on Fall Break<br>Thursday: Studio + Desk Critiques |
+| 11:<br>Nov 4 and 6 | Studio + Desk Critiques |
+| 12:<br>Nov 11 and 13 | Studio + Desk Critiques |
+| 13:<br>Nov 18 and 20 | Preparation for Final Review |
+| 14:<br>Nov 25 and 27 | Tuesday: Studio + Desk Critiques<br>Thursdsay: Thanksgiving Recess |
+| 15:<br>Dec 2 and 4 | **Final Reviews** |
+| 16:<br>Dec 8 | Prep Day: Work on Final Report |
 
-**Final Report Due: Wednesday, Dec 15th, 5pm on Canvas**
+**Final Report Due: Wed Dec 17th at 5pm on Canvas**
 
 ## VIII. Resource References
 
