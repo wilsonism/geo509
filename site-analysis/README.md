@@ -1,4 +1,4 @@
-# Geography 509: <br>Community Mapshop
+# Geography 509: <br>Workshop in Geospatial Technologies
 
 University of Kentucky
 <br>Matthew W. Wilson
