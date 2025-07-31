@@ -1,7 +1,7 @@
 # Geography 509:<br>Workshop in Geospatial Technologies<br>Fall 2025<br>*[@ukmapshop](https://instagram.com/ukmapshop)*
 Lectures: TR 3:30-4:45, Young Library B-28B
 
-**[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
+**[Prof. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
 *Office:* Patterson Office Tower (POT) 815<br>
 *Office Hours:* email for an appointment<br>
