@@ -170,7 +170,7 @@ UK Police will communicate additional information through the UK Alert system du
 | Week | Tuesday and Thursday |
 | :------- | :--------:        |
 | 1:<br>Aug 26 and 28 | Studio introduction<br>Site introduction<br>Introduce [site analysis](site-analysis/README.md) |
-| 2:<br>Sep 2 and 4 | Work on site analysis |
+| 2:<br>Sep 2 and 4 | Work on site analysis<br>Visit [Gwen Curtis Map Collection](https://libraries.uky.edu/find-borrow/find-library-materials/find-materials-type/maps)<br>on Thu Sep 4 |
 | 3:<br>Sep 9 and 11 | Tech demonstrations<br>Work on site analysis |
 | 4:<br>Sep 16 and 18 | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due**<br>NO CLASS ON THU SEP 18 |
 | 5:<br>Sep 23 and 25 | Tech demonstrations<br>Studio + Desk Critiques |
